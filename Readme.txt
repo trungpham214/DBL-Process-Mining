@@ -1,3 +1,5 @@
+(This is my project with 6 people, we creating and training a model to predict the future event and time of that event)
+
 About the project:
 
 With the provided data set from Road Traffic Fine Management Process, we write a model to predict name and time
